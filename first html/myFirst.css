@@ -1,0 +1,18 @@
+h1{color: blue}
+tr:nth-child(even){background-color: #dddddd }
+
+th {
+	color: white;
+	background: green;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px}
+
+td{
+	padding: 8px}
+
+table{
+	font-family: arial;
+	border-collapse: collapse;
+	  text-align: left;
+	  width: 50%}
